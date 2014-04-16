@@ -41,7 +41,7 @@ endif
  Bundle 'kien/ctrlp.vim'
  Bundle 'danro/rename.vim'
  Bundle 'vim-scripts/indent-motion'
- Bundle 'Valloric/YouCompleteMe'
+ " Bundle 'Valloric/YouCompleteMe'
 
 "--------------------
 " general programming
@@ -50,7 +50,7 @@ endif
  Bundle 'editorconfig/editorconfig-vim'
 
  " syntac checking for lots of languages
- Bundle "scrooloose/syntastic"
+ " Bundle "scrooloose/syntastic"
  Bundle 'scrooloose/nerdcommenter.git'
  Bundle 'godlygeek/tabular'
  Bundle 'majutsushi/tagbar'
@@ -76,13 +76,6 @@ endif
  Bundle 'brookhong/DBGPavim.git'
  " Bundle 'shawncplus/phpcomplete.vim'
  
-
-"--------------------
-" for haml, sass, html
-"--------------------
- " haml and sass
- Bundle 'tpope/vim-haml'
- Bundle 'mattn/zencoding-vim'
 
 "--------------------
 " for javascript
