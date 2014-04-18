@@ -129,6 +129,8 @@ map <leader>] :cn<CR>
 map <leader>[ :cp<CR>
 
 " --- move around splits {
+    " move between two windows
+    map <C-W> <C-W><C-W>
     " move to and maximize the below split
     map <C-J> <C-W>j<C-W>_
     " move to and maximize the above split
